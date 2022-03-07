@@ -1,2 +1,2 @@
 # Tasks
-Tasks for php cours
+Tasks for php course
